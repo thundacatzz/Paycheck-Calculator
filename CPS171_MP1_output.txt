@@ -1,0 +1,19 @@
+Enter employee's first and last name
+Jason Matthews
+Enter paycheck amount
+3575
+Paycheck calculation by Logan Skura
+
+Jason Matthews
+Gross Amount: ...........$3575.00
+
+Federal Tax: ............$536.25
+State Tax: ..............$125.12
+Social Security Tax: ....$205.56
+Medicare/Medicaid Tax: ..$98.31
+Pension Plan: ...........$178.75
+Health Insurance: .......$75.00
+
+Net Pay: ................$2356.00
+C:\Users\skura\source\repos\CPS171_MP1\x64\Debug\CPS171_MP1.exe (process 11408) exited with code 0.
+Press any key to close this window . . .
